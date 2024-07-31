@@ -68,3 +68,5 @@ iOSInjectionProject/
 ### Objective-C Patch ###
 
 # End of https://www.gitignore.io/api/objective-c
+.DS_Store
+Project 30 - PhotoTagger/PhotoTagger.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
